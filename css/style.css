@@ -149,7 +149,8 @@ ul {
 }
 .new-style{
     display:flex;
-    z-index:5;
+    z-index:3;
+    height:100%
     
 
 }
