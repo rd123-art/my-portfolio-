@@ -83,6 +83,7 @@ ul {
     flex-direction: column;
     justify-content:space-evenly;
     height: 300px;
+    padding:10px;
 }
 
 .nav-img {
@@ -147,7 +148,10 @@ ul {
 
 }
 .new-style{
-    display:block;
+    display:flex;
+    z-index:5;
+    
+
 }
 .menuto img{
     width: 50px;
